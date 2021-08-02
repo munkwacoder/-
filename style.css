@@ -1,0 +1,24 @@
+.rectangle{
+    color: rgba(25, 25, 25, 0.45);
+    
+    
+}
+.btn
+main > button{
+
+}
+.btn{
+
+     margin-bottom: 10px;
+    padding: 10px;
+    width: 120px;
+    height: auto;
+    font-size: 15px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color:#fff;
+    cursor: pointer;
+    /* color넣는법 #숫자6자리 rgba(a, a, a, 0~1사이의값) 이름 */
+    /* 김치찌개는맛있다 주석하는법 Ctrl+?*/
+
+
+}
